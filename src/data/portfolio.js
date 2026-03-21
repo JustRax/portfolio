@@ -94,6 +94,12 @@ export const projects = [
     description: 'List of basic Python projects that I have done during my time in high school. These projects include a variety of simple applications that demonstrate fundamental Python skills and concepts.',
     url: 'https://github.com/JustRax/Basic-Python-Projects.git',
     domain: 'https://github.com/JustRax/Basic-Python-Projects.git',
+  },
+  {
+    name: 'Arduino Projects',
+    description: 'List of basic Arduino projects that I have done during my time in high school. These projects include a variety of simple applications that demonstrate fundamental Arduino skills and concepts.',
+    url: 'https://github.com/JustRax/Aerisense.git',
+    domain: 'https://github.com/JustRax/Aerisense.git',
   }
 ]
 
