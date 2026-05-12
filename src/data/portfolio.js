@@ -25,7 +25,7 @@ Currently pursuing a Bachelor’s degree in Information Technology, I have exper
 
 I am eager to grow as a developer, learn from experienced professionals, and contribute to meaningful and innovative projects while continuously sharpening my skills in both frontend and backend development.`,
   avatar: heroImage,
-  email: '',
+  email: 'marjoguiba029@gmail.com',
   messenger: 'https://m.me/qtdev404',
   social: {
     linkedin: 'https://www.linkedin.com/in/marjo-catibod-a236a0393/',
