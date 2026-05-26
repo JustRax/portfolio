@@ -45,8 +45,8 @@ I am eager to grow as a developer, learn from experienced professionals, and con
 
 export const experience = [
   { role: 'BS Information Technology', company: 'National College of Science and Technology', year: '2023 - Present', type: 'edu' },
-  { role: 'Technical Vocational Livelihood - Computer System Servicing', company: 'Unida Christian Colleges', year: '2021 - 2023', type: 'edu' },
-  { role: 'Technical Vocational Livelihood - Computer Center Servicing', company: 'General Emilio Aguinaldo National Hightschool', year: '2021 - 2023', type: 'edu' },
+  { role: 'Technical Vocational Livelihood - Computer System Servicing', company: 'Unida Christian Colleges', year: '2021 - 2023', type: 'milestone' },
+  { role: 'Technical Vocational Livelihood - Computer Center Servicing', company: 'General Emilio Aguinaldo National Hightschool', year: '2021 - 2023', type: 'milestone' },
   { role: 'Hello World!', company: 'Wrote my first line of code', year: '2019', type: 'milestone' },
 ]
 
