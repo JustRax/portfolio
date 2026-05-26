@@ -36,7 +36,7 @@ I am eager to grow as a developer, learn from experienced professionals, and con
   achievements: [
     {
       label: 'Download CV',
-      sublabel: 'lorm ipsum dolor sit amet, consectetur adipiscing elit.',
+      sublabel: 'My Resume in PDF format for easy sharing and printing.',
       url: resume,
       download: 'catibod_resume.pdf',
     }
