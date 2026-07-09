@@ -164,7 +164,14 @@ export const certifications = [
     issuer: 'Cisco Networking Academy',
     badgeUrl: 'https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png',
     url: 'https://www.credly.com/badges/f816ea2d-48c6-4eae-bb55-d707eeb6b5ba/public_url',
+  },
+  {
+    name: 'Apply AI: Analyze Customer Reviews',
+    issuer: 'Cisco Networking Academy',
+    badgeUrl: 'https://images.credly.com/images/32aad19b-a359-48f5-a332-2cd9ac2b8731/blob',
+    url: 'https://www.credly.com/badges/145c82b5-2c23-4faa-aa8c-3b6cdb9ad133/public_url',
   }
+
 ]
 
 
