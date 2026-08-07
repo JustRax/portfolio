@@ -18,7 +18,7 @@ import resume from '../assets/catibod_resume.pdf'
 export const profile = {
   name: 'Marjo Catibod',
   title: 'Student · Photographer · Editor · Aspiring Cloud Engineer · Aspiring Network Engineer',
-  location: 'Imus, Cavite, Philippines',
+  location: 'General Trias, Cavite, Philippines',
   bio: `Dedicated and detail-oriented programmer seeking to leverage software development skills in a dynamic tech company. Passionate about building efficient, user-friendly systems and continuously improving technical expertise through hands-on projects and real-world problem solving.
 
 Currently pursuing a Bachelor’s degree in Information Technology, I have experience working with web development, database management, and embedded systems projects such as Arduino-based projects. I enjoy turning ideas into functional solutions, whether it’s developing a cashier system, designing responsive interfaces, or integrating hardware with software.
