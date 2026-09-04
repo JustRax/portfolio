@@ -12,6 +12,7 @@ import ciscoCert from '../assets/images/cisco.jpg'
 import introCert from '../assets/images/intro_to_css.png'
 import settingupCert from '../assets/images/setting_up.png'
 import installingCert from '../assets/images/installing_and_configuring.png'
+import NextJsCert from '../assets/images/nextjs.png'
 import resume from '../assets/catibod_resume.pdf'
 
 
@@ -160,6 +161,11 @@ export const certifications = [
     image: ciscoCert,
   },
   {
+    name: 'Next.js App Roter Fundamentals',
+    issuer: 'Vercel',
+    image: NextJsCert,
+  },
+  {
     name: 'Python Essentials 1',
     issuer: 'Cisco Networking Academy',
     badgeUrl: 'https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png',
@@ -168,7 +174,7 @@ export const certifications = [
   {
     name: 'Apply AI: Analyze Customer Reviews',
     issuer: 'Cisco Networking Academy',
-    badgeUrl: 'https://images.credly.com/images/32aad19b-a359-48f5-a332-2cd9ac2b8731/blob',
+    badgeUrl: 'https://images.credly.com/size/340x340/images/5ba48a47-11b2-452f-a641-5184ba2f6a67/blob',
     url: 'https://www.credly.com/badges/145c82b5-2c23-4faa-aa8c-3b6cdb9ad133/public_url',
   }
 
