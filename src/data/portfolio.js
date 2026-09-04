@@ -101,6 +101,12 @@ export const projects = [
     description: 'List of basic Arduino projects that I have done during my time in high school. These projects include a variety of simple applications that demonstrate fundamental Arduino skills and concepts.',
     url: 'https://github.com/JustRax/Aerisense.git',
     domain: 'https://github.com/JustRax/Aerisense.git',
+  },
+  {
+    name: 'Acme Dashboard',
+    description: 'A Next.js dashboard demonstrating modern styling, optimized assets, routing, data fetching, search, pagination, authentication, form validation, and error handling.',
+    url: 'https://nextjs-dashboard-3d9fd9sua-justraxs-projects.vercel.app/',
+    domain: 'https://nextjs-dashboard-3d9fd9sua-justraxs-projects.vercel.app/',
   }
 ]
 
