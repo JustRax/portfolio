@@ -105,8 +105,8 @@ export const projects = [
   {
     name: 'Acme Dashboard',
     description: 'A Next.js dashboard demonstrating modern styling, optimized assets, routing, data fetching, search, pagination, authentication, form validation, and error handling.',
-    url: 'https://nextjs-dashboard-3d9fd9sua-justraxs-projects.vercel.app/',
-    domain: 'https://nextjs-dashboard-3d9fd9sua-justraxs-projects.vercel.app/',
+    url: 'https://nextjs-dashboard-flame-five-em.vercel.app/',
+    domain: 'https://nextjs-dashboard-flame-five-em.vercel.app/',
   }
 ]
 
