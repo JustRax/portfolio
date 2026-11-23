@@ -54,6 +54,7 @@ export const experience = [
 export const techStack = {
   Frontend: ['JavaScript', 'VueJs', 'Tailwind CSS', 'Bootstrap CSS', 'Styled Components', 'Prettier'],
   Backend: ['MySQL', 'Python', 'PHP', 'Laravel'],
+  Fullstack: ['NextJs'],
   'Developer Tools': ['GitHub', 'VS Code', 'Discord', 'Figma', 'Adobe Photoshop', 'Adobe lightroom', 'Anytype', 'Arduino IDE', 'Cisco Packet Tracer'],
   'Other Language': ['C++', 'Arduino (Embedded Systems)'],
 }
